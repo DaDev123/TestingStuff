@@ -1,5 +1,5 @@
 # room.chat
-
+qd
 A minimal real-time chat with ephemeral rooms. No signup. Share a 6-letter code, that's it.
 
 ## Architecture
